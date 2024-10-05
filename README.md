@@ -22,7 +22,7 @@ This template aims to assist you in initiating your Vuetify 3 development journe
 Clone this project using
 
 ```bash
-git clone https://github.com/boussadjra/vuetalize
+git clone https://github.com/fagarcia086/vuetalize
 ```
 
 change directory to the project folder
